@@ -1,2 +1,1 @@
-# PPML-lab
-Python  lab
+# PPML-Lab
